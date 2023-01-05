@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+.postcard {
+    background-color: white;
+    width: 30%;
+    margin: 0px auto;
+}
+.header{
+display: flex;
+padding: 10px;
+}
+.image{
+width: 100%;
+}
+.content{
+font-family: Roboto;
+font-size: 10px;
+padding: 5px;
+}
+.h3{
+    width: 90%;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.h3 h3 {
+    margin: 1px;
+}
+.iconos {
+    font-size: 25px;
+    display: flex;
+    letter-spacing: 8px;
+}
